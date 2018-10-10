@@ -1,5 +1,6 @@
 # scihub_analytics
+このjupyter notebookは，以下の論文3章における日本におけるSci-Hub利用状況分析に用いたプログラムです。
 
-We are currently preparing to publish. We will publish it by October 10, 2018.
-For the map, please see the link below.
-http://nbviewer.jupyter.org/github/otani0083/scihub_analytics/blob/master/Scihub_analytics.ipynb
+大谷周平, 坂東 慶太. 論文海賊サイト Sci-Hub を巡る動向と日本における利用実態. 情報の科学と技術.2018, 68(10). https://doi.org/10.18919/jkg.68.10_513
+
+
